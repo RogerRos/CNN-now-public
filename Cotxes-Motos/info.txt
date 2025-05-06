@@ -5,9 +5,6 @@ disposes de mes de 64.000 fotos.
 
 Aquesta IA ha sigut entrenada amb mes de 64.000 imatges de cotxes i de motos, te una fiabilitat de aprox(98.5%).
 
-El creador es diu Roger Ros el mes guapo e intel·ligent pero curiosament sense novia perque socialitzar se li dona millor a un
-caragol frances.
-
 El model va ser entrenat durant 1.5 hores seguides, va requerir una dedicacio de 2 dies per completarlo i 
 no tindre temps de fer els deures de matemnatiques.
 
